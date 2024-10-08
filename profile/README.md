@@ -21,7 +21,7 @@
 | :----------------------------- |  :----------------------------- |
 | **담당기능**<br>1. Mobile 구현  |  **담당기능**<br>1. Mobile 구현  |
 | [<img src="https://avatars.githubusercontent.com/u/94737714?v=4" width="200" height="200">](https://github.com/HI-JIN2) | [<img src="https://avatars.githubusercontent.com/u/146940671?v=4" width="200" height="200">](https://github.com/sunnny619) |
-| <div align="center"><a href="https://github.com/HI-JIN2">HI-JIN2</a></div> | <div align="center"><a href="https://github.com/sunny619">sunny619</a></div> |
+| <div align="center"><a href="https://github.com/HI-JIN2">HI-JIN2</a></div> | <div align="center"><a href="https://github.com/sunnny619">sunnny619</a></div> |
 
 ## Back-end
 | <div align="center">권정태</div> |
