@@ -24,11 +24,11 @@
 | <div align="center"><a href="https://github.com/HI-JIN2">HI-JIN2</a></div> | <div align="center"><a href="https://github.com/sunnny619">sunnny619</a></div> |
 
 ## Back-end
-| <div align="center">권정태</div> |
-| :----------------------------- |
-| **담당기능**<br>1. Back-end 구현  |
-| [<img src="https://avatars.githubusercontent.com/u/102507306?v=4" width="200" height="200">](https://github.com/oxdjww) |
-| <div align="center"><a href="https://github.com/oxdjww">oxdjww</a></div> |
+| <div align="center">김동현</div> | <div align="center">권정태</div> | <div align="center">유예지</div> |
+| :----------------------------- | :----------------------------- | :----------------------------- |
+| **담당기능**<br>1. Back-end 구현  |  **담당기능**<br>1. Back-end 구현  |  **담당기능**<br>1. Back-end 구현  |
+|  [<img src="https://avatars.githubusercontent.com/u/113027703?v=4" width="200" height="200">](https://github.com/bricksky) | [<img src="https://avatars.githubusercontent.com/u/102507306?v=4" width="200" height="200">](https://github.com/oxdjww) | [<img src="https://avatars.githubusercontent.com/u/110809579?v=4" width="200" height="200">](https://github.com/YEJIRYOO) |
+| <div align="center"><a href="https://github.com/bricksky">bricksky</a></div> | <div align="center"><a href="https://github.com/oxdjww">oxdjww</a></div> | <div align="center"><a href="https://github.com/YEJIRYOO">YEJIRYOO</a></div> |
 
 ## Hall of Fame 👑
 <details>
