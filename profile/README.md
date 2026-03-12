@@ -37,7 +37,7 @@ COGO와 함께라면 같은 학과, 같은 동아리가 아니어도 관계를 �
 | :----------------------------- |
 | **담당기능**<br>1. ui/ux 구현 |
 | [<img src="https://avatars.githubusercontent.com/u/128198042?v=4" width="200" height="200">](https://github.com/uns0ui) |
-| <div align="center"><a href="https://github.com/uns0ui">HEINYOO</a></div> |
+| <div align="center"><a href="https://github.com/uns0ui">uns0ui</a></div> |
 
 ## Hall of Fame 👑
 <details>
